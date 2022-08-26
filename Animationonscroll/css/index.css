@@ -1,0 +1,20 @@
+.cnt-on-scroll {float: left; width: 100%; overflow: hidden;}
+.cnt-on-scroll .cnt-on-scroll-m {float: left; width: 100%;}
+.cnt1 {float: left; width: 100%;margin: 50px 0;}
+.cnt2 {float: left; width: 100%;margin: 50px 0;}
+.cnt3 {float: left; width: 100%;margin: 50px 0;}
+.cnt4 {float: left; width: 100%;margin: 50px 0;}
+.cnt5 {float: left; width: 100%;margin: 50px 0;}
+.cnt6 {float: left; width: 100%;margin: 50px 0;}
+
+.d1 {float: left; width: 50%; background: #F9B7FF; height: 200px; }
+.d2 {float: right; width: 50%; background: #FBBBB9; height: 200px; }
+.d3 {float: left; width: 50%; background: #98FF98	; height: 200px; }
+.d4 {float: right; width: 50%; background: #7575CF; height: 200px; }
+.d5 {float: left; width: 50%; background: #F2A2E8; height: 200px; }
+.d6 {float: right; width: 50%; background: #CCCCFF; height: 200px; }
+
+.col-sm-3{float: left; margin: 9px 0 0 0; padding-left: 5px;}
+.col-sm-9 {float: left; padding-left: 20px; }
+img {max-width: 100%;}
+
